@@ -1,0 +1,7 @@
+{
+  "name": "SHAKTI BRIDGE",
+  "description": "A managed marketplace empowering rural and tribal women artisans by providing a team-assisted platform for selling handmade crafts with global reach.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
